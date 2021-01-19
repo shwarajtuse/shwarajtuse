@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...optimization and statistics
 - 📫 How to reach me: ...shwaraj.tuse@unb.ca
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... xyz
 
