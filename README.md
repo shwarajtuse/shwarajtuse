@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...research papers, projects. 
 - 🤔 I’m looking for help with RStudio
 - 💬 Ask me about ...optimization and statistics
-- 📫 How to reach me: ...shwarajtuse.
+- 📫 How to reach me: ...shwaraj.tuse@unb.ca
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
